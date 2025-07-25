@@ -1,0 +1,31 @@
+# Privacy Policy for SmartPromptBar
+
+**Last Updated:** July 25, 2025
+
+This Privacy Policy describes how SmartPromptBar ("we," "us," or "our") handles your information when you use our browser extension.
+
+### 1. Data We Handle
+
+SmartPromptBar is designed with your privacy in mind. We do **not** collect or store any personally identifiable information. The extension handles two types of data locally on your device:
+
+* **User-Selected Text and Page Content:** The core function of the extension is to process text that you select on a webpage. For the "Summarize Entire Page" feature, the extension reads the text content of the current webpage. This data is handled ephemerally and is **never** sent to or stored on our servers.
+* **User Configuration Settings:** The extension uses Chrome's local storage (`chrome.storage.sync`) to save your settings, such as your custom prompts, language preference, and website settings. This data is stored locally in your browser and synced to your Google account by Chrome. We do not have access to this data.
+
+### 2. How Your Data is Used and Transferred
+
+When you select text and choose a prompt and an AI service destination (e.g., ChatGPT, Google Gemini), the selected text and prompt are combined and sent **directly from your browser to the chosen third-party AI service**. This transfer only happens upon your explicit action (clicking the service button).
+
+We act as a facilitator to streamline your workflow. We do not see, log, or store the content you process. Your interaction with third-party AI services is subject to their respective privacy policies.
+
+### 3. Third-Party Services
+
+SmartPromptBar interacts with various third-party AI services. We encourage you to review their privacy policies:
+* OpenAI (ChatGPT)
+* Google (Gemini)
+* Anthropic (Claude)
+* xAI (Grok)
+* (Add links to the privacy policies of other services you support)
+
+### 4. Contact Us
+
+If you have any questions about this Privacy Policy, please contact the developer at: aminjavadiazad@gmail.com
